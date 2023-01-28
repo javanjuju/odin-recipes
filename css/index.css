@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    height: 75px;
+    width: auto;
+    background-color:#FFFDD0;
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+a{
+    color: black;
+    font-size: x-large;
+    background-color: antiquewhite;
+}
+div{
+    margin:40px;
+}
+.recipes{
+    display: inline-block;
+    margin-left: 100px;
+    padding: 30px;
+    background-color: antiquewhite;
+    width: auto;
+}
+* {
+    background-color: #6699CC;
+}
+.info{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
